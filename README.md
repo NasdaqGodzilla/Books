@@ -12,5 +12,6 @@ All contents is from the Internet. Please connect with me about anything about C
 
 Name | Category | Description
 ---|---|---
-[JDK_API_1_6_zh_CN.chm](https://github.com/NasdaqGodzilla/Books/blob/main/JDK_API_1_6_zh_CN.chm) | Java; Reference; | JDK API Reference. chm. Chinese
+[JDK_API_1_6_zh_CN.chm](https://github.com/NasdaqGodzilla/Books/blob/main/JDK_API_1_6_zh_CN.chm) | Java; Reference; | JDK API Reference. JDK API参考手册. Chinese
+[Linux+API+ManDocument.chm](https://github.com/NasdaqGodzilla/Books/blob/main/Linux%2BAPI%2BManDocument.chm) | Linux; Reference; | Linux API Reference. Linux API参考手册. English
 
